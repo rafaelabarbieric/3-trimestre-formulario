@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    display: block;
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: #D9E8F5;
+}
+h1{
+    text-align: center;
+}
+title{
+    display: none;
+}
+label{
+    margin-top: 10px;
+}
+main{
+    background-color: #304269;
+    color: white;
+    padding: 1.5rem;
+}
+.jeito {
+    background-color: white;
+    font-size: 22px;
+    margin-top: 10px;
+    padding: 30px;
+    border: 1px solid #BDC1C9;
+    border-radius: 5%;
+    
+}
+.ai {
+    text-align: center;
+    display: flex;
+    gap: 5px;
+}
+
+.ai>label {
+    margin: 0;
+}
